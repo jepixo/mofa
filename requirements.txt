@@ -1,0 +1,10 @@
+torch
+torchvision
+numpy
+opencv-python
+mediapipe
+trimesh
+pygltflib
+Pillow
+scipy
+pytest
