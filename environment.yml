@@ -1,0 +1,19 @@
+name: mofa
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - numpy=1.26.4
+  - pillow
+  - scipy
+  - opencv
+  - trimesh
+  - pygltflib
+  - pytest
+  - pytorch
+  - torchvision
+  - pip:
+      - mediapipe
